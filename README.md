@@ -4,7 +4,7 @@
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <title>Roots & Designs</title>
-  <link ref="stylesheet" href="final.css" />
+  <link rel="stylesheet" href="final.css" />
 </head>
 <body>
 
@@ -29,7 +29,7 @@
   </main>
 
   <footer>
-    <p>&copy; 2025 Brittany. All rights reserved.</p>
+    <p>&copy; 2025 Brittany Woods </p>
   </footer>
 
 </body>
